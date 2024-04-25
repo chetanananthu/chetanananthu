@@ -46,7 +46,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="https://instagram.com/unic_chetan"><img src="https://img.shields.io/badge/-@unic_chetan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-
+ ![Profile views](https://komarev.com/ghpvc/?username=chetanananthu&color=green) 
 
 
 
