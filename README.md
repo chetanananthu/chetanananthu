@@ -20,7 +20,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -36,16 +36,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Nodejs Docker build times — Layering explained.](https://medium.com/@visualbean/optimizing-nodejs-docker-build-times-layering-explained-185d60a56e99?source=rss-35f0ba80b9cd------2)
-- [Keeping up with trends](https://medium.com/@visualbean/keeping-up-with-trends-19f9a7274577?source=rss-35f0ba80b9cd------2)
-- [5 Quick NodeJS tips](https://medium.com/@visualbean/5-quick-nodejs-tips-fadbcd513d65?source=rss-35f0ba80b9cd------2)
-- [C# String Concatenation](https://medium.com/@visualbean/c-string-concatenation-8873c9871240?source=rss-35f0ba80b9cd------2)
-- [Documenting role based authentication with Swagger](https://medium.com/@visualbean/documenting-role-based-authentication-with-swagger-fa1d6c835cfd?source=rss-35f0ba80b9cd------2)
-<!-- BLOG-POST-LIST:END -->
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -56,16 +46,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="https://instagram.com/unic_chetan"><img src="https://img.shields.io/badge/-@unic_chetan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
- ![Profile views](https://komarev.com/ghpvc/?username=chetanananthu&color=green)
- </p>
 
 
 
-
-
-
-### Hi there 👋
 
 <!--
 **chetanananthu/chetanananthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
